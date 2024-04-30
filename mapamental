@@ -1,0 +1,85 @@
+
+  "title": "Portafolio de Evidencias",
+  "nodes": [
+    {
+      "id": "1",
+      "text": "Portafolio de Evidencias",
+      "style": {
+        "background": "#FFCC66",
+        "borderColor": "#FF9900"
+      }
+    },
+    {
+      "id": "2",
+      "text": "Procedimiento de Ejecución de la Formación Profesional Integral",
+      "style": {
+        "background": "#FFCC66",
+        "borderColor": "#FF9900"
+      },
+      "parentId": "1"
+    },
+    {
+      "id": "3",
+      "text": "Control y seguimiento por la Coordinación Académica, Instructores y Aprendices",
+      "style": {
+        "background": "#FFCC66",
+        "borderColor": "#FF9900"
+      },
+      "parentId": "2"
+    },
+    {
+      "id": "4",
+      "text": "Formatos deben ser digitales y mantener la estructura establecida",
+      "style": {
+        "background": "#FFCC66",
+        "borderColor": "#FF9900"
+      },
+      "parentId": "2"
+    },
+    {
+      "id": "5",
+      "text": "Documentos requeridos para control y seguimiento del proceso formativo",
+      "style": {
+        "background": "#FFCC66",
+        "borderColor": "#FF9900"
+      },
+      "parentId": "1"
+    },
+    {
+      "id": "6",
+      "text": "Tres tipos de portafolios: Coordinador, Instructor y Aprendiz",
+      "style": {
+        "background": "#FFCC66",
+        "borderColor": "#FF9900"
+      },
+      "parentId": "5"
+    },
+    {
+      "id": "7",
+      "text": "Lineamientos establecidos por la Coordinación Académica y la Coordinación de Formación Profesional del CEET",
+      "style": {
+        "background": "#FFCC66",
+        "borderColor": "#FF9900"
+      },
+      "parentId": "1"
+    },
+    {
+      "id": "8",
+      "text": "Estructuración del portafolio a través de la plataforma académica Blackboard",
+      "style": {
+        "background": "#FFCC66",
+        "borderColor": "#FF9900"
+      },
+      "parentId": "1"
+    },
+    {
+      "id": "9",
+      "text": "Facilita construcción, mantenimiento y uso de documentación existente en la plataforma SOFIA PLUS y otros medios digitales del SENA",
+      "style": {
+        "background": "#FFCC66",
+        "borderColor": "#FF9900"
+      },
+      "parentId": "1"
+    }
+  ]
+} 
